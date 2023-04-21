@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "tipo":"VIP",
+    "fecha":"12/06/2023",
+    "hora":"2:00 p.m",
+    "personas":4,
+    "numeroMesa":10
+  },
+  {
+    "id":2,
+    "tipo":"normal",
+    "fecha":"20/05/2023",
+    "hora":"8:00 p.m",
+    "personas":7,
+    "numeroMesa":30
+  }
+]
