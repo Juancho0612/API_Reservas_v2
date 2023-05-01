@@ -22,3 +22,5 @@ const port = process.env.PORT || 3000
 app.listen(port,()=>{
   console.log('API en funcionamiento en el puerto '+ port)
 })
+
+export default app;
