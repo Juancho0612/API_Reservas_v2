@@ -1,10 +1,10 @@
-const express  = require('express')
-const router  = express.Router()
+import express  from "express";
+const dishesRouter  = express.Router()
 
-router.get('/',(req,res)=>{
+dishesRouter.get('/',(req,res)=>{
   res.send('🍟Ruta dishes🍟')
 })
 
 
 //exportar router
-module.exports = router
+export default  dishesRouter;
