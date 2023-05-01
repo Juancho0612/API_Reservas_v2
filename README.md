@@ -6,3 +6,4 @@ https://github.com/Juancho0612/API_Reservas_v2/blob/main/imagenes%20apicliente/g
 https://github.com/Juancho0612/API_Reservas_v2/blob/main/imagenes%20apicliente/Get_1.png
 https://github.com/Juancho0612/API_Reservas_v2/blob/main/imagenes%20apicliente/Post.png
 https://github.com/Juancho0612/API_Reservas_v2/blob/main/imagenes%20apicliente/Put.png
+https://github.com/Juancho0612/API_Reservas_v2/blob/main/imagenes%20apicliente/Delete.png
